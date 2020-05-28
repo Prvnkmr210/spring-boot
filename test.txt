@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 First commit in Github.
 
 Commit 2.
 
 Commit 3.
+=======
+First commit in Github.
+>>>>>>> parent of 9387b5b... second commit
